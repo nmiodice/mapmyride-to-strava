@@ -1,0 +1,5 @@
+data/
+dep/
+swagger/
+__pycache__/
+.env
